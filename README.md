@@ -30,3 +30,5 @@ Interesting links on database topics
 [Select if string contains in Postgres](https://stackoverflow.com/questions/23320945/postgresql-select-if-string-contains)
 
 [Is count(*) or count(1) faster?](https://blog.jooq.org/2019/09/19/whats-faster-count-or-count1/)
+
+[Literate SQL](https://modern-sql.com/use-case/literate-sql)
