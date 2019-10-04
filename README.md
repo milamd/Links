@@ -16,3 +16,7 @@ Interesting links on data etc.
 [Delete duplicate rows in Postgres](https://blog.theodo.com/2018/01/search-destroy-duplicate-rows-postgresql/)
 
 [Simple case for pivoting](https://tapoueh.org/blog/2013/07/simple-case-for-pivoting-in-sql/)
+
+[Selecting random rows in Postgres](https://stackoverflow.com/questions/8674718/best-way-to-select-random-rows-postgresql)
+
+[Update multiple rows in Postgres](https://stackoverflow.com/questions/18797608/update-multiple-rows-in-same-query-using-postgresql)
