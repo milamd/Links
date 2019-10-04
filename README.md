@@ -20,3 +20,5 @@ Interesting links on data etc.
 [Selecting random rows in Postgres](https://stackoverflow.com/questions/8674718/best-way-to-select-random-rows-postgresql)
 
 [Update multiple rows in Postgres](https://stackoverflow.com/questions/18797608/update-multiple-rows-in-same-query-using-postgresql)
+
+[The filter clause](https://modern-sql.com/feature/filter)
