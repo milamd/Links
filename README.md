@@ -22,3 +22,7 @@ Interesting links on data etc.
 [Update multiple rows in Postgres](https://stackoverflow.com/questions/18797608/update-multiple-rows-in-same-query-using-postgresql)
 
 [The filter clause](https://modern-sql.com/feature/filter)
+
+[Understanding star schemas](http://gkmc.utah.edu/ebis_class/2003s/Oracle/DMB26/A73318/schemas.htm)
+
+[Weighted random sampling with Postgres](http://www.marcosantoni.com/2016/08/23/weighted-random-sampling-with-postgresql.html)
