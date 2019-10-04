@@ -28,3 +28,5 @@ Interesting links on data etc.
 [Weighted random sampling with Postgres](http://www.marcosantoni.com/2016/08/23/weighted-random-sampling-with-postgresql.html)
 
 [Select if string contains in Postgres](https://stackoverflow.com/questions/23320945/postgresql-select-if-string-contains)
+
+[Is count(*) or count(1) faster?](https://blog.jooq.org/2019/09/19/whats-faster-count-or-count1/)
