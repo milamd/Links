@@ -1,5 +1,5 @@
 # Links
-Interesting links on data etc.
+Interesting links on database topics
 
 [Compile T-SQL Online](https://rextester.com/l/sql_server_online_compiler "Compile T-SQL online")
 
