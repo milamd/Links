@@ -26,3 +26,5 @@ Interesting links on data etc.
 [Understanding star schemas](http://gkmc.utah.edu/ebis_class/2003s/Oracle/DMB26/A73318/schemas.htm)
 
 [Weighted random sampling with Postgres](http://www.marcosantoni.com/2016/08/23/weighted-random-sampling-with-postgresql.html)
+
+[Select if string contains in Postgres](https://stackoverflow.com/questions/23320945/postgresql-select-if-string-contains)
